@@ -1,1 +1,1 @@
-# map_game
+# map-game
